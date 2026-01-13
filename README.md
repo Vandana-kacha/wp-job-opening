@@ -57,11 +57,14 @@ Displays all available job openings on the frontend. Require to create page and 
 = Does this plugin require Contact Form 7? =
 Yes. Contact Form 7 is required to handle job application submissions.
 
+
 = Where are applications stored? =
 All applications are stored securely in the WordPress database and accessible from the admin panel.
 
+
 = Can I download applicant CVs? =
 Yes. CVs can be downloaded directly from the Applicants admin page.
+
 
 == Screenshots ==
 
