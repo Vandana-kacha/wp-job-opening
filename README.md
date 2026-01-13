@@ -41,11 +41,11 @@ WP Job Opening is ideal for companies, HR teams, and recruiters who want a light
 
 == Usage ==
 
-1. Add job openings from **WP Admin → Apex Job Opening**
+1. Add job openings from **WP Admin → WP Job Opening**
 2. Create a Contact Form 7 form with CV upload field
 3. Assign the form to job openings
 4. Display jobs on any page using the provided shortcode
-5. View submitted applicants in **WP Admin → Apex Job Opening → Applicants**
+5. View submitted applicants in **WP Admin → WP Job Opening → Applicants**
 
 == Shortcodes ==
 
