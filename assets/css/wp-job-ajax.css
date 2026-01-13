@@ -1,0 +1,31 @@
+#ajo-pagination .tablenav-pages a.page-numbers {
+    display: inline-block;
+    margin: 0 4px;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    background: #f7f7f7;
+    color: #0073aa;
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+#ajo-pagination .tablenav-pages a.page-numbers:hover {
+    background: #0073aa;
+    color: #fff;
+    border-color: #0073aa;
+}
+
+#ajo-pagination .tablenav-pages a.page-numbers.current {
+    background: #0073aa;
+    color: #fff;
+    border-color: #0073aa;
+    cursor: default;
+    pointer-events: none;
+}
+
+#ajo-pagination .tablenav-pages a.page-numbers.prev,
+#ajo-pagination .tablenav-pages a.page-numbers.next {
+    font-weight: bold;
+}
