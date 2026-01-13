@@ -49,8 +49,8 @@ WP Job Opening is ideal for companies, HR teams, and recruiters who want a light
 
 == Shortcodes ==
 
-`[wp_job_openings]`  
-Displays all available job openings on the frontend.
+`[wp_job_list]`  
+Displays all available job openings on the frontend. Require to create page and set shortcode inside that page. You can seel all jobs with ajax filter.
 
 == Frequently Asked Questions ==
 
